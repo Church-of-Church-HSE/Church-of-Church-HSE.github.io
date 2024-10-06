@@ -1,7 +1,8 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
-site_name: Проекты по теории языков программирования
+site_name: Теория языков программирования на ФКН
 site_url: https://church-of-church-hse.github.io
 nav:
+  - Главная: index.md
   - Проекты:
     - projects/index.md
     - projects/catcomp.md
