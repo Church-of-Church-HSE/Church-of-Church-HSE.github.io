@@ -23,7 +23,6 @@ theme:
   language: ru
   features:
     - header.autohide
-    - navigation.footer
     - navigation.indexes
     - navigation.instant
     - navigation.instant.progress
