@@ -1,6 +1,10 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: Church of Church project site
 site_url: https://church-of-church-hse.github.io
+nav:
+  - index.md
+  - catcomp.md
+  - tags.md
 theme:
   name: material
   features:
