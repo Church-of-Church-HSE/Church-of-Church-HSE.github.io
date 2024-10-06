@@ -1,3 +1,3 @@
-# Tags
+# Тэги
 
 <!-- material/tags -->
