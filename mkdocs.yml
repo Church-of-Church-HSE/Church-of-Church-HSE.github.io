@@ -2,8 +2,9 @@
 site_name: Проекты по теории языков программирования
 site_url: https://church-of-church-hse.github.io
 nav:
-  - index.md
-  - catcomp.md
+  - Проекты:
+    - projects/index.md
+    - projects/catcomp.md
   - tags.md
 theme:
   name: material
@@ -46,9 +47,6 @@ markdown_extensions:
   - md_in_html
   - pymdownx.arithmatex:
       generic: true
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
       use_pygments: true
