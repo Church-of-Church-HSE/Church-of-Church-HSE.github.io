@@ -17,7 +17,7 @@ nav:
     - projects/shaderdsl.md
     - projects/twelf.md
     - projects/zksnark.md
-  - tags.md
+  - testtask.md
 theme:
   name: material
   language: ru
@@ -49,7 +49,7 @@ plugins:
   - search
   - social
   - tags:
-      tags_file: tags.md
+      tags_file: index.md
 markdown_extensions:
   - abbr
   - attr_list
