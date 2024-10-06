@@ -3,6 +3,14 @@ site_name: Church of Church project site
 site_url: https://church-of-church-hse.github.io
 theme:
   name: material
+  features:
+    - header.autohide
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tabs.sticky
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
@@ -19,3 +27,37 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to dark mode
+plugins:
+  - privacy
+  - search
+  - social
+  - tags:
+      tags_file: tags.md
+markdown_extensions:
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      use_pygments: true
+      pygments_lang_class: true
+      auto_title: true
+      line_spans: __span
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - toc:
+      permalink: true
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Church-of-Church-HSE/
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
