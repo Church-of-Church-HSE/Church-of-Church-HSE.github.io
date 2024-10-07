@@ -45,7 +45,6 @@ theme:
         icon: material/brightness-4
         name: Тёмная тема
 plugins:
-  - privacy
   - search
   - social
   - tags:
