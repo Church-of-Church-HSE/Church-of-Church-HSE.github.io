@@ -8,6 +8,8 @@ tags:
 
 # Проект по zkSNARK
 
+## Описание
+
 [zkSNARK](https://z.cash/learn/what-are-zk-snarks/) &mdash; одно из новейших
 изобретений криптографической науки. С их помощью можно:
 
