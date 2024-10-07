@@ -76,6 +76,10 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Church-of-Church-HSE/
+  tags:
+    КР 24/25: cw24
+    ВКР 24/25: bw24
+    Проект 24/25: pr24
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
