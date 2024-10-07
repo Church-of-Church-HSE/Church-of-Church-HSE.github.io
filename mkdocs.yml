@@ -5,18 +5,18 @@ nav:
   - Главная: index.md
   - Проекты:
     - projects/index.md
-    - projects/catcomp.md
+    - projects/sanskrit.md
+    - projects/zksnark.md
     - projects/codeaswiki.md
     - projects/dependobuf.md
+    - projects/twelf.md
+    - projects/catcomp.md
     - projects/gc.md
     - projects/graphcat.md
     - projects/hitgc.md
     - projects/mlgc.md
     - projects/parsergen.md
-    - projects/sanskrit.md
     - projects/shaderdsl.md
-    - projects/twelf.md
-    - projects/zksnark.md
   - testtask.md
 theme:
   name: material
