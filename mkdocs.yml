@@ -6,17 +6,16 @@ nav:
   - Проекты:
     - projects/index.md
     - projects/sanskrit.md
+    - projects/dependobuf.md
     - projects/zksnark.md
     - projects/codeaswiki.md
-    - projects/dependobuf.md
     - projects/twelf.md
-    - projects/catcomp.md
+    - projects/parsergen.md
     - projects/gc.md
     - projects/graphcat.md
+    - projects/catcomp.md
     - projects/hitgc.md
     - projects/mlgc.md
-    - projects/parsergen.md
-    - projects/shaderdsl.md
   - testtask.md
 theme:
   name: material
