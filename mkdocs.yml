@@ -6,6 +6,7 @@ nav:
   - Проекты:
     - projects/index.md
     - projects/sanskrit.md
+    - projects/kyo-direct-plugin.md
     - projects/dependobuf.md
     - projects/zksnark.md
     - projects/codeaswiki.md
